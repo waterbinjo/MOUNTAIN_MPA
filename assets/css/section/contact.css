@@ -111,7 +111,7 @@
   .contact_inner {
     justify-content: center;
   }
-  .contact_lines .line {
+  .contact_lines.top .line {
     display: block;
   }
   .contact_text .text {
